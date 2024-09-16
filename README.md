@@ -1,12 +1,12 @@
 
-### Olá eu sou o kenji okubo 🖐️
+### Hello, my name is Kenji Okubo 😎👍
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kenji.okubo.14?mibextid=LQQJ4d)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kenji_okubo?igsh=d3cwcjFlOXdlNzRn&utm_source=qr)
 
 ![NaviCustomize GitHub stats](https://github-readme-stats.vercel.app/api?username=NaviCustomize&show_icons=true&theme=highcontrast)
 
-### Tecnologias que eu uso no meu dia
+### technologies that I use every day
 
 <div style="display: inline_block"><br/>
     <img aligh="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
